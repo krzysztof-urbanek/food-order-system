@@ -1,0 +1,9 @@
+com\example\fos\model\order\DrinkOrder.class
+com\example\fos\model\product\Drink.class
+com\example\fos\model\CourseType.class
+com\example\fos\FoodOrderSystem.class
+com\example\fos\model\product\Dish.class
+com\example\fos\model\Cuisine.class
+com\example\fos\model\product\Product.class
+com\example\fos\model\order\LunchOrder.class
+com\example\fos\model\order\Order.class
