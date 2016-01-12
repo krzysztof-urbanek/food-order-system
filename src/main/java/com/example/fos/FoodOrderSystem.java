@@ -30,7 +30,7 @@ public class FoodOrderSystem {
 	private static final String NUMERIC_ANSWER_PATTERN = "^[(]?[0-9]+[)]?[.]?$";
 
 	private static final String ORDER_LUNCH_OR_DRINK = 
-			"What would you like to order? (Type corresponsing number)\n(1). Order lunch.          (2). Order drink.";
+			"What would you like to order? (Type corresponding number)\n(1). Order lunch.          (2). Order drink.";
 
 	private static final String CHOOSE_CUISINE_FOR_MAIN_COURSE = "Choose a cuisine for a main course:";
 	
